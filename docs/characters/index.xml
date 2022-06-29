@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personnalités marquante on Ilnoime</title>
-    <link>localhost/characters/</link>
+    <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/</link>
     <description>Recent content in Personnalités marquante on Ilnoime</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="localhost/characters/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="https://201943376-clg-qc-ca.github.io/Ilsoime/characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Japal</title>
-      <link>localhost/characters/japal/</link>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/japal/</link>
       <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
       
-      <guid>localhost/characters/japal/</guid>
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/japal/</guid>
       <description>Introduction</description>
       <content:encoded><![CDATA[<table>
 <thead>
@@ -54,10 +54,10 @@
     
     <item>
       <title>Neari</title>
-      <link>localhost/characters/neari/</link>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/neari/</link>
       <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
       
-      <guid>localhost/characters/neari/</guid>
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/neari/</guid>
       <description>Introduction</description>
       <content:encoded><![CDATA[<table>
 <thead>
@@ -100,10 +100,10 @@
     
     <item>
       <title>Zorg</title>
-      <link>localhost/characters/zorg/</link>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/zorg/</link>
       <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
       
-      <guid>localhost/characters/zorg/</guid>
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/zorg/</guid>
       <description>Introduction</description>
       <content:encoded><![CDATA[<table>
 <thead>

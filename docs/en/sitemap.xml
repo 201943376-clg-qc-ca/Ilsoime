@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/en/categories/</loc>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/categories/"
+                href="https://201943376-clg-qc-ca.github.io/Ilsoime/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/en/categories/"
+                href="https://201943376-clg-qc-ca.github.io/Ilsoime/en/categories/"
                 />
   </url><url>
-    <loc>localhost/en/</loc>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/"
+                href="https://201943376-clg-qc-ca.github.io/Ilsoime/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/en/"
+                href="https://201943376-clg-qc-ca.github.io/Ilsoime/en/"
                 />
   </url><url>
-    <loc>localhost/en/tags/</loc>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/tags/"
+                href="https://201943376-clg-qc-ca.github.io/Ilsoime/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/en/tags/"
+                href="https://201943376-clg-qc-ca.github.io/Ilsoime/en/tags/"
                 />
   </url>
 </urlset>
