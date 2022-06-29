@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ilnoime</title>
+    <link>localhost/</link>
+    <description>Recent content on Ilnoime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japal</title>
+      <link>localhost/characters/japal/</link>
+      <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
+      
+      <guid>localhost/characters/japal/</guid>
+      <description>Introduction</description>
+      <content:encoded><![CDATA[<table>
+<thead>
+<tr>
+<th>Nom</th>
+<th>Apparence</th>
+<th>Age</th>
+<th>Genre</th>
+<th>Abiletés</th>
+<th>Statut social</th>
+<th>Personnalité</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Japal</td>
+<td>5’11, couleur de peau brune, cheveux noirs, yeux noisettes</td>
+<td>21<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
+<td>Homme</td>
+<td>Mutant (résistance à la radioactivité)</td>
+<td>Bezos</td>
+<td>EMFJ<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
+</tr>
+</tbody>
+</table>
+<p>Japal cherche à détruire l’empire de Zorg et mettre fin à toutes les guerres.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>la révolution d’Ilsoïme équivaut à 404 jours terriens&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>indicateur typologique de Myers-Briggs (MBTI®)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Neari</title>
+      <link>localhost/characters/neari/</link>
+      <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
+      
+      <guid>localhost/characters/neari/</guid>
+      <description>Introduction</description>
+      <content:encoded><![CDATA[<table>
+<thead>
+<tr>
+<th>Nom</th>
+<th>Apparence</th>
+<th>Age</th>
+<th>Genre</th>
+<th>Abiletés</th>
+<th>Statut social</th>
+<th>Personnalité</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Neari</td>
+<td>5’6,  couleur de peau blanche un peu bronzé, yeux ambre, cheveux bouclés roux</td>
+<td>19<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
+<td>Femme</td>
+<td>Mutante (besoin peu d&rsquo;eau)</td>
+<td>Varysienne</td>
+<td>INFP<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
+</tr>
+</tbody>
+</table>
+<p>Neari cherche à établir l’équité économique et sociale. Elle veut donner une vie meilleure aux pauvres. Aussi, elle désire restaurer l’écosystème d’Ilsoïme.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>la révolution d’Ilsoïme équivaut à 404 jours terriens&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>indicateur typologique de Myers-Briggs (MBTI®)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Zorg</title>
+      <link>localhost/characters/zorg/</link>
+      <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
+      
+      <guid>localhost/characters/zorg/</guid>
+      <description>Introduction</description>
+      <content:encoded><![CDATA[<table>
+<thead>
+<tr>
+<th>Nom</th>
+<th>Apparence</th>
+<th>Age</th>
+<th>Genre</th>
+<th>Abiletés</th>
+<th>Statut social</th>
+<th>Personnalité</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zorg</td>
+<td>6’5, costaud, chauve, moustache épaisse noire ,yeux noirs, traits de visage menaçant</td>
+<td>48<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
+<td>Homme</td>
+<td>Aucune</td>
+<td>Varysien</td>
+<td>ENTJ<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
+</tr>
+</tbody>
+</table>
+<p>Zorg est l’homme le plus riche et le plus puissant d’Ilsoïme. Il est le dictateur des souterrains de Zothon et il contrôle aussi une partie de la ville de Varys. Il détient le monopole de l’eau de toute la planète.</p>
+<p>Il veut grossir son empire et récolter tous les artéfacts d’Ilsoïme.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>la révolution d’Ilsoïme équivaut à 404 jours terriens&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>indicateur typologique de Myers-Briggs (MBTI®)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

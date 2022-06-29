@@ -1,0 +1,20 @@
+<div class="container mt-1">
+	<ol class="nav row">
+		{{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+	</ol>
+
+	{{ define "breadcrumbnav" }}
+	{{ if not .p1.Parent.IsHome }}
+	{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 ) }}
+	{{ end }}
+
+	<li {{- if eq .p1 .p2 }} class="active" {{ end -}}>
+		/
+		{{ if eq .p1 .p2}}
+		<span class="m-1">{{ .p1.Title }}</span>
+		{{ else }}
+		<a class="m-1" href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
+		{{ end }}
+	</li>
+	{{ end }}
+</div>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
+{{ partial "head.html" . }}
+
+<body>
+	{{ if .IsHome }}
+	<header style="background-image: url('{{ .Site.Params.banner.bg_image }}');"
+		class="banner {{if .Site.Params.banner.bg_image}}overlay bg-cover{{else}}bg-primary{{end}}">
+		{{ partial "navigation.html" . }}
+		{{ partialCached "banner.html" . }}
+	</header>
+	{{ else }}
+	<header class="shadow-bottom sticky-top bg-white">
+		{{ partial "navigation.html" . }}
+	</header>
+	{{ end }}
+
+	{{ block "main" . }}
+	Define the "main" template for your page's content
+	{{ end }}
+
+	{{ partialCached "footer.html" . }}
+
+	{{/*
+	{{- if not hugo.IsProduction }}
+	{{ printf "%#v" $.Site.Params }}
+	{{ printf "%#v" $.Site.Params.Menus.main }}
+	{{ end -}}
+	*/}}
+</body>
+
+</html>

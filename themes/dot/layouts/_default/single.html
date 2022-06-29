@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ partial "breadcrumbs" . }}
+
+<section class="single section-sm pb-0">
+	<article class="container">
+
+		{{/* Header */}}
+
+		<header>
+			{{- partial "post/title" . -}}
+			{{- partial "post/meta" . -}}
+			{{- partial "post/description" . -}}
+		</header>
+
+		{{/* Asides */}}
+
+		{{- partial "post/toc" . -}}
+		<hr />
+
+		{{/* Body */}}
+
+		<main class="post-content">
+			{{ .Content }}
+		</main>
+
+	</article>
+</section>
+
+{{/* {{ partial "default.html" . }} */}}
+
+{{ end }}

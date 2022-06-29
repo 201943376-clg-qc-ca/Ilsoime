@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+{{ partial "breadcrumbs" . }}
+
+<section class="section">
+	<div class="container">
+
+		{{/* Title */}}
+
+		<div class="col-12 text-center">
+			{{- partial "post/title" . -}}
+			{{- partial "post/description" . -}}
+		</div>
+
+		{{/* Sections */}}
+
+		<div class="row justify-content-center">
+			{{ $pages := .Page.Pages }}
+			{{/* .Page.Sections.ByWeight */}}
+
+			{{- range $pages }}
+			<div class="col-lg-4 col-sm-6 mb-4 mt-4">
+				<a href="{{ .Permalink }}" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+					{{ with .Params.icon}}
+					<i class="{{.}} icon text-primary d-block mb-4"></i>
+					{{end}}
+					<h3 class="mb-3 mt-0">{{ .Title }}</h3>
+					{{with .Params.description}}
+					<p class="mb-0">{{. | markdownify}}</p>
+					{{end}}
+				</a>
+			</div>
+			{{ end -}}
+		</div>
+
+		{{/* Body */}}
+
+		{{- if .Content }}
+		<hr />
+		{{- partial "post/toc" . -}}
+		<main class="post-content">
+			{{ .Content }}
+		</main>
+		{{- end }}
+
+	</div>
+</section>
+
+{{ end }}

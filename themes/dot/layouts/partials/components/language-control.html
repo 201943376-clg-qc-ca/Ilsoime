@@ -1,0 +1,43 @@
+{{/* {{- if site.IsMultiLingual }}
+<select class="lang-list {{ if not .IsHome }}dark mb-3 mb-md-0{{ end }}" id="select-language"
+	onchange="location = this.value;">
+	{{ $siteLanguages := site.Languages}}
+	{{ $pageLang := .Page.Lang}}
+	{{ range .Page.AllTranslations }}
+	{{ $translation := .}}
+	{{ range $siteLanguages }}
+	{{ if eq $translation.Lang .Lang }}
+	{{ $selected := false }}
+	{{ if eq $pageLang .Lang}}
+	<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>
+		{{ .LanguageName }}
+	</option>
+	{{ else }}
+	<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">
+		{{ .LanguageName }}
+	</option>
+	{{ end }}
+	{{ end }}
+	{{ end }}
+	{{ end }}
+</select>
+{{ end }} */}}
+
+{{- $lang := .Lang}}
+{{- with site.Home.AllTranslations }}
+<div class="container">
+	<ul class="lang-switch row">
+		<li>|</li>
+		{{- range . -}}
+		{{- if ne $lang .Lang }}
+		<li>
+			<a href="{{- .Permalink -}}" title="{{ .Language.LanguageName | emojify }}  {{ .Lang | title }}"
+				aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
+				{{ .Language.LanguageName }} {{ .Lang | emojify }}
+			</a>
+		</li>
+		{{- end -}}
+		{{- end}}
+	</ul>
+</div>
+{{- end }}

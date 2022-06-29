@@ -1,0 +1,176 @@
+### Site configuration ####################################################
+
+# Domain configuration
+baseURL: localhost
+
+# Site configuration
+title: Ilnoime
+
+# Language configuration
+defaultContentLanguage: fr
+disabledLanguages:
+  - en
+
+params:
+
+  # Link metadata               [ image is used as a fallback ]
+  author: --
+  image: images/banner.png
+
+### Menu #######################################################################
+
+menu:
+  main:
+
+    # Nature Module
+    - identifier: nature
+      url: nature/
+      weight: 1
+      hasChildren: true
+
+    - identifier: geography
+      url: geography/
+      weight: 1
+      parent: nature
+
+    - identifier: culture
+      url: culture/
+      weight: 2
+
+### Theme configuration ######################################################
+
+# Selected themes
+theme: 
+  - dot
+
+params:
+
+  # Logo configuration          [ light/dark | leave empty to use site's title ]
+  logo:
+  logo_white:
+
+  # Color configuration
+  primary_color: "#9042d6"
+  body_color: "#1f1f1a"
+  text_color: "#888"
+  text_color_dark: "#aaa"
+  white_color: "#333"
+  light_color: "#444"
+
+  # Font configuration          [ choose from https://fonts.google.com/ ]
+  # font_family: Anek Latin
+
+# Homepage configuration
+  banner:
+    bg_image: images/banner.png
+
+### Localization ##########################################################
+
+languages:
+  en:
+    languageName: English
+    weight: 2
+
+  fr:
+    languageName: Français
+    weight: 1
+
+    menu:
+      main:
+
+        # Nature Module
+        - identifier: nature
+          name: Nature
+          url: nature/ #FIXME
+
+        - identifier: geography
+          name: Géographie
+          url: nature/geography/ #FIXME
+          parent: nature #FIXME
+
+        - identifier: disease
+          name: Maladies et mutations
+          url: nature/diseases/ #FIXME
+          parent: nature #FIXME
+
+        - identifier: species
+          name: Espèces, races et ethnicités
+          url: nature/species/ #FIXME
+          parent: nature #FIXME
+
+        # Culture Module
+        - identifier: culture
+          name: Culture et société
+          url: culture/ #FIXME
+
+        - identifier: society
+          name: Classes sociales
+          url: culture/society/ #FIXME
+          parent: culture #FIXME
+
+        - identifier: politics
+          name: Systèmes politiques
+          url: culture/politics/ #FIXME
+          parent: culture #FIXME
+
+        - identifier: architecture
+          name: Architecture et habitations
+          url: culture/architecture/ #FIXME
+          parent: culture #FIXME
+
+        - identifier: science
+          name: Technologie et sciences
+          url: culture/science/ #FIXME
+          parent: culture #FIXME
+
+        - identifier: economy
+          name: Économie
+          url: culture/economy/ #FIXME
+          parent: culture #FIXME
+
+        - identifier: equipment
+          name: Armes et armures
+          url: culture/equipment/ #FIXME
+          parent: culture #FIXME
+        
+        # Geopolitics
+        - identifier: geopolitics
+          name: Histoire et Territoire
+          url: geopolitics/ #FIXME
+
+        - identifier: events
+          name: Évenements historiques
+          url: geopolitics/events/ #FIXME
+          parent: geopolitics #FIXME
+
+        - identifier: conflicts
+          name: Conflits
+          url: geopolitics/conflicts/ #FIXME
+          parent: geopolitics #FIXME
+
+        - identifier: threats
+          name: Menaces et problèmes sociaux
+          url: geopolitics/threats/ #FIXME
+          parent: geopolitics #FIXME
+
+        - identifier: locations
+          name: Lieux
+          url: geopolitics/locations/ #FIXME
+          parent: geopolitics #FIXME
+        
+        # Characters
+        - identifier: characters
+          name: Personnages
+          url: characters/ #FIXME
+
+    params:
+
+      # Homepage
+      banner:
+        title: Bienvenue dans le monde d'Ilsoime
+        subtitle: Un endroit dévasté par l'apocalypse nucléaire
+        placeholder: Recherche ⏎
+        bg_image: images/banner.png #FIXME
+
+      # Link metadata
+      description: Le monde d'Ilsoime

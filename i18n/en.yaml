@@ -1,0 +1,8 @@
+- id: topics_title
+  translation: Find your answer by subject
+
+- id: articles_title
+  translation: Find an article
+  
+- id: send
+  translation: Send
