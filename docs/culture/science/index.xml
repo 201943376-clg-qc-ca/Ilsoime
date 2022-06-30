@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Technologies et sciences on Ilnoime</title>
+    <title>Technologies et sciences on Ilsoïme</title>
     <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/</link>
-    <description>Recent content in Technologies et sciences on Ilnoime</description>
+    <description>Recent content in Technologies et sciences on Ilsoïme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Injection anti-radiation</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/radaway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/radaway/</guid>
+      <description>La fine pointe de la technologie zothonienne</description>
+      <content:encoded><![CDATA[<p>L&rsquo;étude des phénomènes radioactifs de la surface planétaire amena à la création d&rsquo;une injection permettant de ralentir &ndash; voire même de retirer partiellement &ndash; le degré de radioactivité du corps d’un individu.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Météorologie</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/meteorology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/meteorology/</guid>
+      <description>La fine pointe de la technologie Varysienne</description>
+      <content:encoded><![CDATA[<p>Les sciences météorologique permettent de prédire la grande majorité des catastrophes naturelles à travers les régions de la planète.</p>
+<p>L&rsquo;on peuvent savoir d’avance les endroits où les pluies acides vont tomber en plus de connaître l’intensité des pluies à venir.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,7 +1,6 @@
 ---
-title: "Histoire et territoire"
-date: 2022-06-22T15:06:35-04:00
+title: Histoire et territoire
+description: Module Géopolitique
 icon: "ti-panel"
-description: "Module géopolitiques"
 type : "docs"
 ---

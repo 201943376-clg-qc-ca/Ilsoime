@@ -1,14 +1,11 @@
 - id: topics_title
-  translation: Trouvez votre réponse par sujet
+  translation: Trouvez un sujet
   
 - id: articles_title
   translation: Trouvez un article
 
-- id: send
-  translation: Envoyer
-
-- id: nature
-  translation: Lolo
-
 - id: toc
   translation: Table de contenu
+
+- id: words
+  translation: "{{ . }} mots"

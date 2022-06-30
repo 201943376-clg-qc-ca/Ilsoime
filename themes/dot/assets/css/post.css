@@ -97,7 +97,7 @@ h6:hover .anchor {
 .post-content p,
 .post-content figure,
 .post-content ul {
-    margin-bottom: var(--content-gap);
+    margin-bottom: 1em;
 }
 
 .post-content ol,
@@ -149,7 +149,7 @@ h6:hover .anchor {
     min-width: 80px;
     padding: 12px 8px;
     line-height: 1.5;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid var(--light-color);
 }
 
 .post-content table th {
@@ -162,12 +162,12 @@ h6:hover .anchor {
 }
 
 .post-content .highlight table {
-    border-radius: var(--radius);
+    border-radius: 8px;
 }
 
 .post-content .highlight:not(table) {
-    margin: var(--content-gap) auto;
-    border-radius: var(--radius);
+    margin: 16px auto;
+    border-radius: 8px;
 }
 
 .post-content li > .highlight {
@@ -175,7 +175,7 @@ h6:hover .anchor {
 }
 
 .post-content ul pre {
-    margin-inline-start: calc(var(--gap) * -2);
+    margin-inline-start: calc(8px * -2);
 }
 
 .post-content .highlight pre {
@@ -205,12 +205,12 @@ h6:hover .anchor {
 
 /* code block */
 .post-content .chroma {
-    border-radius: var(--radius);
+    border-radius: 8px;
 }
 /* TODO refactor this shit */
 .post-content code {
     /* inline code */
-    background-color: var(--code-bg);
+    background-color: var(--body-color);
     margin: 0 3px;
     padding: 4px 5px;
     border-radius: 3px;
@@ -222,7 +222,7 @@ h6:hover .anchor {
     margin: auto 0;
     padding: 15px;
     overflow-x: auto;
-    border-radius: var(--radius);
+    border-radius: 8px;
     word-break: break-all;
 }
 .post-content .chroma code {
@@ -232,7 +232,7 @@ h6:hover .anchor {
 .post-content blockquote {
     margin: 20px 0;
     padding: 0 14px;
-    border-inline-start: 3px solid var(--primary);
+    border-inline-start: 3px solid var(--primary-color);
 }
 
 .post-content sup {
@@ -242,7 +242,7 @@ h6:hover .anchor {
 .post-content hr {
     margin: 30px 0;
     height: 2px;
-    background: var(--tertiary-bg);
+    background: var(--light-color);
     border-top: 0;
     border-bottom: 0;
 }
@@ -260,6 +260,10 @@ h6:hover .anchor {
     margin: 1rem auto;
 }
 
+.post-content img[alt="large"] {
+	width: 900px;
+}
+
 .post-content video {
     width: 100%;
 }
@@ -269,14 +273,14 @@ h6:hover .anchor {
 }
 
 .post-content figure > figcaption {
-    color: var(--primary);
+    color: var(--text-color);
     font-size: 16px;
     font-weight: bold;
     margin: 8px 0 16px;
 }
 
 .post-content figure > figcaption > p {
-    color: var(--secondary);
+    color: var(--text-color-dark);
     font-size: 14px;
     font-weight: normal;
 }

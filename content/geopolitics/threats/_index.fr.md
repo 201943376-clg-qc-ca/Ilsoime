@@ -1,7 +1,6 @@
 ---
 title: "Menaces et problèmes sociaux"
 date: 2022-06-22T15:06:35-04:00
-description: "Introduction"
 ---
 
 - Les maladies sont partout et elles sont généralement très contagieuses.
@@ -10,6 +9,6 @@ description: "Introduction"
 
 - Puisque la planète est en crise de famine, plusieurs se sont tournés vers le cannibalisme.
 
-- Il y a peu de chance de survie pour ceux qui vivent à la surface de la terre. Toutefois, la chance de survie à Varys est plus élevée qu’à Besos.
+- Il y a peu de chance de survie pour ceux qui vivent à la surface de la planète. Toutefois, la chance de survie à Varys est plus élevée qu’à Besos.
 
-- Il y a beaucoup de tensions entre les classes sociales 
+- Il y a beaucoup de tensions entre les classes sociales.

@@ -1,6 +1,6 @@
 ---
 title: Japal
-description: Introduction
+description: Rebel anti-Zothon par excellence
 date: 2022-06-22T15:06:35-04:00
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Personnalités marquante"
-description: "introduction"
-type : "docs"
-icon: "ti-panel"
+title: Personnalités marquante
+description: Module Personnages
+type : docs
+icon: ti-panel
 ---

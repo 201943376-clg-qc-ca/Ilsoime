@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>System politiques on Ilnoime</title>
+    <title>Systèmes politiques on Ilsoïme</title>
     <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/</link>
-    <description>Recent content in System politiques on Ilnoime</description>
+    <description>Recent content in Systèmes politiques on Ilsoïme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Régime de Varys</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/varys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/varys/</guid>
+      <description>La ville a un régime politique propre</description>
+      <content:encoded><![CDATA[<h2 id="système-politique">Système Politique</h2>
+<p>Le régime politique de Varys est similaire à la démocratie libérale.
+Les élections se font de façon régulière et plusieurs candidats se présentent à chaque élection en apportant de légers changements aux lois.</p>
+<h2 id="système-économique">Système Économique</h2>
+<p>Varys est dans un régime économique capitaliste. Les personnes au pouvoir aiment ce système économique et il en est de même pour leurs habitants.</p>
+<p>Le groupe qui dirige Varys sait que tant que la ville maintient sa richesse, les habitants ne sont pas obligés d’aller vivre dans les bidonvilles.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Régime de Zothon</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/zothon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/zothon/</guid>
+      <description>Le régime totalitaire de Zorg</description>
+      <content:encoded><![CDATA[<p>Dans la ville de Zothon, un régime totalitaire fut mis en place il y a bien longtemps.</p>
+<p>Tous les habitants de cette ville le système économique est aussi le capitalisme pour cette ville, un peu comme à Varys cependant, la différence majeure est que les habitants de cet endroit malgré le fait qu’ils sont riches et ont dû payer des grandes sommes d’argent pour vivre dans cette ville souterraine, ils ne sont pas entièrement libres de leurs actions et le gouvernement qui possède le pouvoir de cet endroit contrôle les médias de masse et charge un grand montant d’argent à tous les habitants s’ils veulent continuer de vivre dans ce lieu qui leur permet de vivre sans les dangers de la surface.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Région de Besos</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/besos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/besos/</guid>
+      <description>L&amp;#39;anarchie de la pauvreté</description>
+      <content:encoded><![CDATA[<p>Dans la région de Besos, personne n&rsquo;est officiellement en charge.</p>
+<p>Leur niveau de pauvreté est si élevé qu’ils n’ont pas de lois et font tout ce qu’ils peuvent pour survivre dans les terres dangereuses d’Ilsoïme.</p>
+<p>Le régime politique qui ressemble le plus à leur mode de vie est l’anarchie.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

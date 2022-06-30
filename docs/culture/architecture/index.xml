@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Architectures et habitations on Ilnoime</title>
+    <title>Architectures et habitations on Ilsoïme</title>
     <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/</link>
-    <description>Recent content in Architectures et habitations on Ilnoime</description>
+    <description>Recent content in Architectures et habitations on Ilsoïme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Région de Besos</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/besos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/besos/</guid>
+      <description>La grande majorité de la population de la planète d’Ilsoïme habite dans la pauvreté où leurs habitations sont des petits abris incomplets composés de plaques assemblées avec des déchets métalliques, souvent trouvés dans différents dépotoirs.
+Leurs maisons n&amp;rsquo;ont habituellement pas de fondations solides, ce qui fait que ces habitations se font emporter par des vents violents et ne protègent pas souvent ceux qui y habitent des tempêtes de radiations.</description>
+      <content:encoded><![CDATA[<p>La grande majorité de la population de la planète d’Ilsoïme habite dans la pauvreté où leurs habitations sont des petits abris incomplets composés de plaques assemblées avec des déchets métalliques, souvent trouvés dans différents dépotoirs.</p>
+<p>Leurs maisons n&rsquo;ont habituellement pas de fondations solides, ce qui fait que ces habitations se font emporter par des vents violents et ne protègent pas souvent ceux qui y habitent des tempêtes de radiations.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ville de Varys</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/varys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/varys/</guid>
+      <description>Dans la ville de Varys, les habitations sont beaucoup plus technologiquement avancées. La ville contient de nombreuses maisons construites avec de beaux métaux très résistants et esthétiquement soignés.
+Il y a de nombreux bâtiments de plusieurs dizaines d’étages avec des appartements qui peuvent être retrouvés un peu partout sur la superficie de la ville.</description>
+      <content:encoded><![CDATA[<p>Dans la ville de Varys, les habitations sont beaucoup plus technologiquement avancées. La ville contient de nombreuses maisons construites avec de beaux métaux très résistants et esthétiquement soignés.</p>
+<p>Il y a de nombreux bâtiments de plusieurs dizaines d’étages avec des appartements qui peuvent être retrouvés un peu partout sur la superficie de la ville.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ville de Zothon</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/zothon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/zothon/</guid>
+      <description>Dans la ville souterraine de Zothon, les habitations sont beaucoup plus luxurieuses que partout ailleurs sur la planète. Elles contiennent parfois des fermes hydroponiques pour faire pousser de la végétation, pour se nourrir ou pour décorer leur demeure.
+De plus, grâce à un filtre à pollution très efficace, les zothoniens peuvent avoir de l’eau potable directement dans leurs maisons qui viennent du réservoir commun de Zothon.</description>
+      <content:encoded><![CDATA[<p>Dans la ville souterraine de Zothon, les habitations sont beaucoup plus luxurieuses que partout ailleurs sur la planète. Elles contiennent parfois des fermes hydroponiques pour faire pousser de la végétation, pour se nourrir ou pour décorer leur demeure.</p>
+<p>De plus, grâce à un filtre à pollution très efficace, les zothoniens peuvent avoir de l’eau potable directement dans leurs maisons qui viennent du réservoir commun de Zothon.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

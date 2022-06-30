@@ -1,147 +1,185 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ilnoime</title>
+    <title>Ilsoïme</title>
     <link>https://201943376-clg-qc-ca.github.io/Ilsoime/</link>
-    <description>Recent content on Ilnoime</description>
+    <description>Recent content on Ilsoïme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 22 Jun 2022 15:06:35 -0400</lastBuildDate><atom:link href="https://201943376-clg-qc-ca.github.io/Ilsoime/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Japal</title>
-      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/japal/</link>
-      <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
+      <title>Bezos</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/poor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/japal/</guid>
-      <description>Introduction</description>
-      <content:encoded><![CDATA[<table>
-<thead>
-<tr>
-<th>Nom</th>
-<th>Apparence</th>
-<th>Age</th>
-<th>Genre</th>
-<th>Abiletés</th>
-<th>Statut social</th>
-<th>Personnalité</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Japal</td>
-<td>5’11, couleur de peau brune, cheveux noirs, yeux noisettes</td>
-<td>21<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
-<td>Homme</td>
-<td>Mutant (résistance à la radioactivité)</td>
-<td>Bezos</td>
-<td>EMFJ<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
-</tr>
-</tbody>
-</table>
-<p>Japal cherche à détruire l’empire de Zorg et mettre fin à toutes les guerres.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>la révolution d’Ilsoïme équivaut à 404 jours terriens&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>indicateur typologique de Myers-Briggs (MBTI®)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/poor/</guid>
+      <description>Les plus pauvres, pratiquement l&amp;#39;entièreté d&amp;#39;Ilsoïme</description>
+      <content:encoded><![CDATA[<p>Les pauvres sont appelés Bezos et ils habitent sur le reste du territoire de la planète.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>Neari</title>
-      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/neari/</link>
-      <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
+      <title>Économie du Besos</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/besos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/neari/</guid>
-      <description>Introduction</description>
-      <content:encoded><![CDATA[<table>
-<thead>
-<tr>
-<th>Nom</th>
-<th>Apparence</th>
-<th>Age</th>
-<th>Genre</th>
-<th>Abiletés</th>
-<th>Statut social</th>
-<th>Personnalité</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Neari</td>
-<td>5’6,  couleur de peau blanche un peu bronzé, yeux ambre, cheveux bouclés roux</td>
-<td>19<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
-<td>Femme</td>
-<td>Mutante (besoin peu d&rsquo;eau)</td>
-<td>Varysienne</td>
-<td>INFP<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
-</tr>
-</tbody>
-</table>
-<p>Neari cherche à établir l’équité économique et sociale. Elle veut donner une vie meilleure aux pauvres. Aussi, elle désire restaurer l’écosystème d’Ilsoïme.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>la révolution d’Ilsoïme équivaut à 404 jours terriens&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>indicateur typologique de Myers-Briggs (MBTI®)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/besos/</guid>
+      <description>Les habitants de Bezos ont généralement peu ou pas d’argent, ce qui fait qu’ils sont laissés à eux-mêmes au niveau des ressources principales à leur survie.
+De plus, ils n’ont aucune alliance économique particulière avec les autres villes et nations.
+Cependant, ceux qui sont assez chanceux pour trouver des injections antiradiation peuvent les revendre pour un prix d’or sur le marché noir.</description>
+      <content:encoded><![CDATA[<p>Les habitants de Bezos ont généralement peu ou pas d’argent, ce qui fait qu’ils sont laissés à eux-mêmes au niveau des ressources principales à leur survie.</p>
+<p>De plus, ils n’ont aucune alliance économique particulière avec les autres villes et nations.</p>
+<p>Cependant, ceux qui sont assez chanceux pour trouver des injections antiradiation peuvent les revendre pour un prix d’or sur le marché noir.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>Zorg</title>
-      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/zorg/</link>
-      <pubDate>Wed, 22 Jun 2022 15:06:35 -0400</pubDate>
+      <title>Économie varysienne</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/varys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/zorg/</guid>
-      <description>Introduction</description>
-      <content:encoded><![CDATA[<table>
-<thead>
-<tr>
-<th>Nom</th>
-<th>Apparence</th>
-<th>Age</th>
-<th>Genre</th>
-<th>Abiletés</th>
-<th>Statut social</th>
-<th>Personnalité</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Zorg</td>
-<td>6’5, costaud, chauve, moustache épaisse noire ,yeux noirs, traits de visage menaçant</td>
-<td>48<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
-<td>Homme</td>
-<td>Aucune</td>
-<td>Varysien</td>
-<td>ENTJ<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></td>
-</tr>
-</tbody>
-</table>
-<p>Zorg est l’homme le plus riche et le plus puissant d’Ilsoïme. Il est le dictateur des souterrains de Zothon et il contrôle aussi une partie de la ville de Varys. Il détient le monopole de l’eau de toute la planète.</p>
-<p>Il veut grossir son empire et récolter tous les artéfacts d’Ilsoïme.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>la révolution d’Ilsoïme équivaut à 404 jours terriens&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>indicateur typologique de Myers-Briggs (MBTI®)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/varys/</guid>
+      <description>La richesse de Varys vient de leur alliance économique avec Zothon et de leur production des d&amp;rsquo;outils et d&amp;rsquo;équipements qu&amp;rsquo;ils revendent. Ce principalement à des groupes de survivants vivant à l&amp;rsquo;extérieur du périmètre de la ville qui ont assez d’argent pour se le permettre.</description>
+      <content:encoded><![CDATA[<p>La richesse de Varys vient de leur alliance économique avec Zothon et de leur production des d&rsquo;outils et d&rsquo;équipements qu&rsquo;ils revendent. Ce principalement à des groupes de survivants vivant à l&rsquo;extérieur du périmètre de la ville qui ont assez d’argent pour se le permettre.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Économie zothonienne</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/zothon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/zothon/</guid>
+      <description>Zothon est actuellement l’endroit le plus riche de la planète d’Ilsoïme.
+L’une des raisons principales pour lesquelles les villes zothoniennes sont pleines de richesses, c&amp;rsquo;est le profit de Zorg par les difficultés que les gens ont à se procurer de l’eau.
+La ville de Zothon possède le monopole de l’Oasis d’Œz et ils ont le plein contrôle de ceux qui peuvent utiliser l’eau. Aussi, ils vendent cette eau aux habitants de Varys, ce qui fait que Varys et Zothon sont les endroits où les besoins fondamentaux des unak sont les plus comblés.</description>
+      <content:encoded><![CDATA[<p>Zothon est actuellement l’endroit le plus riche de la planète d’Ilsoïme.</p>
+<p>L’une des raisons principales pour lesquelles les villes zothoniennes sont pleines de richesses, c&rsquo;est le profit de Zorg par les difficultés que les gens ont à se procurer de l’eau.</p>
+<p>La ville de Zothon possède le monopole de l’Oasis d’Œz et ils ont le plein contrôle de ceux qui peuvent utiliser l’eau. Aussi, ils vendent cette eau aux habitants de Varys, ce qui fait que Varys et Zothon sont les endroits où les besoins fondamentaux des unak sont les plus comblés.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Injection anti-radiation</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/radaway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/radaway/</guid>
+      <description>La fine pointe de la technologie zothonienne</description>
+      <content:encoded><![CDATA[<p>L&rsquo;étude des phénomènes radioactifs de la surface planétaire amena à la création d&rsquo;une injection permettant de ralentir &ndash; voire même de retirer partiellement &ndash; le degré de radioactivité du corps d’un individu.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Météorologie</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/meteorology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/meteorology/</guid>
+      <description>La fine pointe de la technologie Varysienne</description>
+      <content:encoded><![CDATA[<p>Les sciences météorologique permettent de prédire la grande majorité des catastrophes naturelles à travers les régions de la planète.</p>
+<p>L&rsquo;on peuvent savoir d’avance les endroits où les pluies acides vont tomber en plus de connaître l’intensité des pluies à venir.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Régime de Varys</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/varys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/varys/</guid>
+      <description>La ville a un régime politique propre</description>
+      <content:encoded><![CDATA[<h2 id="système-politique">Système Politique</h2>
+<p>Le régime politique de Varys est similaire à la démocratie libérale.
+Les élections se font de façon régulière et plusieurs candidats se présentent à chaque élection en apportant de légers changements aux lois.</p>
+<h2 id="système-économique">Système Économique</h2>
+<p>Varys est dans un régime économique capitaliste. Les personnes au pouvoir aiment ce système économique et il en est de même pour leurs habitants.</p>
+<p>Le groupe qui dirige Varys sait que tant que la ville maintient sa richesse, les habitants ne sont pas obligés d’aller vivre dans les bidonvilles.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Régime de Zothon</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/zothon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/zothon/</guid>
+      <description>Le régime totalitaire de Zorg</description>
+      <content:encoded><![CDATA[<p>Dans la ville de Zothon, un régime totalitaire fut mis en place il y a bien longtemps.</p>
+<p>Tous les habitants de cette ville le système économique est aussi le capitalisme pour cette ville, un peu comme à Varys cependant, la différence majeure est que les habitants de cet endroit malgré le fait qu’ils sont riches et ont dû payer des grandes sommes d’argent pour vivre dans cette ville souterraine, ils ne sont pas entièrement libres de leurs actions et le gouvernement qui possède le pouvoir de cet endroit contrôle les médias de masse et charge un grand montant d’argent à tous les habitants s’ils veulent continuer de vivre dans ce lieu qui leur permet de vivre sans les dangers de la surface.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Région de Besos</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/besos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/besos/</guid>
+      <description>La grande majorité de la population de la planète d’Ilsoïme habite dans la pauvreté où leurs habitations sont des petits abris incomplets composés de plaques assemblées avec des déchets métalliques, souvent trouvés dans différents dépotoirs.
+Leurs maisons n&amp;rsquo;ont habituellement pas de fondations solides, ce qui fait que ces habitations se font emporter par des vents violents et ne protègent pas souvent ceux qui y habitent des tempêtes de radiations.</description>
+      <content:encoded><![CDATA[<p>La grande majorité de la population de la planète d’Ilsoïme habite dans la pauvreté où leurs habitations sont des petits abris incomplets composés de plaques assemblées avec des déchets métalliques, souvent trouvés dans différents dépotoirs.</p>
+<p>Leurs maisons n&rsquo;ont habituellement pas de fondations solides, ce qui fait que ces habitations se font emporter par des vents violents et ne protègent pas souvent ceux qui y habitent des tempêtes de radiations.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Région de Besos</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/besos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/besos/</guid>
+      <description>L&amp;#39;anarchie de la pauvreté</description>
+      <content:encoded><![CDATA[<p>Dans la région de Besos, personne n&rsquo;est officiellement en charge.</p>
+<p>Leur niveau de pauvreté est si élevé qu’ils n’ont pas de lois et font tout ce qu’ils peuvent pour survivre dans les terres dangereuses d’Ilsoïme.</p>
+<p>Le régime politique qui ressemble le plus à leur mode de vie est l’anarchie.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Riches</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/rich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/rich/</guid>
+      <description>Habitant principalement dans la ville de Varys</description>
+      <content:encoded><![CDATA[<p>Les riches habitent à la surface de la Terre dans la ville de Varys, le seul lieu exempté de catastrophes naturelles qui se situe à côté de l’Oasis d’Œz.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ultra riches</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/ultra-rich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/ultra-rich/</guid>
+      <description>Élite sous la direction de Zorg</description>
+      <content:encoded><![CDATA[<p>Les plus riches de la planète habitent en dessous de la terre dans des souterrains appelés Zothon, dirigés par une seule personne, Zorg.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ville de Varys</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/varys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/varys/</guid>
+      <description>Dans la ville de Varys, les habitations sont beaucoup plus technologiquement avancées. La ville contient de nombreuses maisons construites avec de beaux métaux très résistants et esthétiquement soignés.
+Il y a de nombreux bâtiments de plusieurs dizaines d’étages avec des appartements qui peuvent être retrouvés un peu partout sur la superficie de la ville.</description>
+      <content:encoded><![CDATA[<p>Dans la ville de Varys, les habitations sont beaucoup plus technologiquement avancées. La ville contient de nombreuses maisons construites avec de beaux métaux très résistants et esthétiquement soignés.</p>
+<p>Il y a de nombreux bâtiments de plusieurs dizaines d’étages avec des appartements qui peuvent être retrouvés un peu partout sur la superficie de la ville.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ville de Zothon</title>
+      <link>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/zothon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/zothon/</guid>
+      <description>Dans la ville souterraine de Zothon, les habitations sont beaucoup plus luxurieuses que partout ailleurs sur la planète. Elles contiennent parfois des fermes hydroponiques pour faire pousser de la végétation, pour se nourrir ou pour décorer leur demeure.
+De plus, grâce à un filtre à pollution très efficace, les zothoniens peuvent avoir de l’eau potable directement dans leurs maisons qui viennent du réservoir commun de Zothon.</description>
+      <content:encoded><![CDATA[<p>Dans la ville souterraine de Zothon, les habitations sont beaucoup plus luxurieuses que partout ailleurs sur la planète. Elles contiennent parfois des fermes hydroponiques pour faire pousser de la végétation, pour se nourrir ou pour décorer leur demeure.</p>
+<p>De plus, grâce à un filtre à pollution très efficace, les zothoniens peuvent avoir de l’eau potable directement dans leurs maisons qui viennent du réservoir commun de Zothon.</p>
 ]]></content:encoded>
     </item>
     

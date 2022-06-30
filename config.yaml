@@ -4,12 +4,18 @@
 baseURL: localhost
 
 # Site configuration
-title: Ilnoime
+title: Ilsoïme
 
 # Language configuration
 defaultContentLanguage: fr
 disabledLanguages:
   - en
+
+# Markup configuration
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
 

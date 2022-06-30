@@ -61,7 +61,7 @@
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/neari/</loc>
     <lastmod>2022-06-22T15:06:35-04:00</lastmod>
   </url><url>
-    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/diseases/neuroplylie%CC%81zeupho%CC%84nimex/</loc>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/diseases/neuroplyliezeuphonimex/</loc>
     <lastmod>2022-06-22T15:06:35-04:00</lastmod>
   </url><url>
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/</loc>
@@ -76,6 +76,12 @@
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/characters/zorg/</loc>
     <lastmod>2022-06-22T15:06:35-04:00</lastmod>
   </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/poor/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/geography/biomes/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/geography/natural-disaster/</loc>
+  </url><url>
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -88,9 +94,39 @@
                 href="https://201943376-clg-qc-ca.github.io/Ilsoime/categories/"
                 />
   </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/geography/climate/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/besos/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/varys/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/economy/zothon/</loc>
+  </url><url>
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/species/</loc>
   </url><url>
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/geography/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/geography/hydrosphere/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/radaway/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/geopolitics/locations/oez-oasis/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/science/meteorology/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/varys/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/zothon/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/besos/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/politics/besos/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/geopolitics/locations/besos-region/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/geography/relief/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/rich/</loc>
   </url><url>
     <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/tags/</loc>
     <xhtml:link
@@ -103,5 +139,17 @@
                 hreflang="fr"
                 href="https://201943376-clg-qc-ca.github.io/Ilsoime/tags/"
                 />
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/society/ultra-rich/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/nature/species/unak/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/varys/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/geopolitics/locations/varys-city/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/culture/architecture/zothon/</loc>
+  </url><url>
+    <loc>https://201943376-clg-qc-ca.github.io/Ilsoime/geopolitics/locations/zothon-city/</loc>
   </url>
 </urlset>
